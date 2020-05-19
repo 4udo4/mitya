@@ -1,0 +1,22 @@
+.guestbookcontent a.button {
+    margin-bottom:1em;
+}
+
+.guestbookcontent h4 {
+    border-bottom:1px solid #999 !important;
+    display:block !important;
+}
+
+.guestbookcontent .date {
+    font-size: small;
+    font-style: italic;
+    
+}
+
+.guestbookcontent .message {
+}
+
+.guestbookcontent .comment {
+    padding-left:2em;
+    font-style: italic;
+}
